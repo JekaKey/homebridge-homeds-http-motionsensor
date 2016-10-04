@@ -1,4 +1,4 @@
-# homebridge-homeds-http-garagedoor
+# homebridge-homeds-http-motionsensor
 
 ```javascript
 {
